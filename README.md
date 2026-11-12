@@ -164,7 +164,7 @@ This project is licensed under the **MIT License**.
 
 **Lohith G**
 
-Crafted with precision, simplicity, and a focus on creating a premium digital experience for modern dental clinics.
+Crafted with precision, simplicity, and a focus on creating a premium digital experience for modern dental clinics intrested can contact.
 
 ---
 
