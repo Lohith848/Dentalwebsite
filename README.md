@@ -2,7 +2,7 @@
 
 ---
 
-## Smile Care Dental
+## Smile Care Dental - Demo
 
 > A modern, elegant, and responsive dental clinic website designed with a premium aesthetic and exceptional user experience.
 
